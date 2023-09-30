@@ -15,8 +15,8 @@ A contrução do painel consistiu nas seguintes etapas:
 
 ## Estrutura do repositório 🗃️
 - Dados que alimentam o app: [data/alepe.csv](https://github.com/IcaroBernardes/monitorALEPE/blob/main/data/alepe.csv);
-- Código para scrap dos dados e textos das proposições da ALEPE: [scripts/scrapper_alepe.R](https://github.com/IcaroBernardes/monitorALEPE/blob/main/proposicoesScrap.R);
-- Código para produção de resumo e extração de temas através do chatGPT: [scripts/chatGPT.R](https://github.com/IcaroBernardes/monitorALEPE/blob/main/scripts/proposicoesGPT.R).
+- Código para scrap dos dados e textos das proposições da ALEPE: [proposicoesScrap.R](https://github.com/IcaroBernardes/monitorALEPE/blob/main/proposicoesScrap.R);
+- Código para produção de resumo e extração de temas através do chatGPT: [proposicoesGPT.R](https://github.com/IcaroBernardes/monitorALEPE/blob/main/proposicoesGPT.R).
 
 ## Submissão de artigo
 Esse trabalho foi submetido ao 16º CONGRESSO DE GESTÃO PÚBLICA DO RIO GRANDE DO NORTE (CONGESP) com o nome **MONITOR ALEPE: SOLUCIONANDO PROBLEMAS DE CLASSIFICAÇÃO COM USO DE INTELIGÊNCIA ARTIFICIAL**
